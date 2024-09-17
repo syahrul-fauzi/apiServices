@@ -6,7 +6,7 @@
 
 <p align="center">
     <!-- Gitpod -->
-    <a target="_blank" href="https://gitpod.io/#https://github.com/apitable/apitable">
+    <a target="_blank" href="https://gitpod.io/#https://github.com/syahrul-fauzi/apiServices">
         <img src="https://img.shields.io/badge/gitpod-devenv-orange" alt="APITable Gitpod Development Environment" />
     </a>
     <!-- NodeJS -->
