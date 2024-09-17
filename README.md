@@ -18,7 +18,7 @@
         <img src="https://img.shields.io/docker/pulls/apitable/init-db" />
     </a>
     <!-- Github Release Latest -->
-    <a target="_blank" href="https://github.com/apitable/apitable/releases/latest">
+    <a target="_blank" href="https://github.com/syahrul-fauzi/apiServices/releases/latest">
         <img src="https://img.shields.io/github/v/release/apitable/apitable" />
     </a>
     <!-- Deploy to DO -->
